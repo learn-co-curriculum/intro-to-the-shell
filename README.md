@@ -10,3 +10,7 @@
 ## Summary
 
 Learning to use your command line is crucial to being a programmer. Your terminal is your workbench, get to love it.
+
+## Opening a Terminal OSX
+
+The easiest way to open a terminal is through Spoltight.
