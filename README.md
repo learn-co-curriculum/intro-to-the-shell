@@ -7,10 +7,12 @@
     Your browser does not support the video tag. We recommend using Chrome
 </video>
 
-## Summary
+## Summary [here too]
 
 Learning to use your command line is crucial to being a programmer. Your terminal is your workbench, get to love it.
 
 ## Opening a Terminal OSX
 
 The easiest way to open a terminal is through Spotlight.
+
+## this is my addition
