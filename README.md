@@ -1,4 +1,4 @@
-# Intro to the Shell
+# Intr0 t0 th3 Sh3ll
 
 [MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
 
