@@ -1,6 +1,6 @@
 # Intro to the Shell
 
-[MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
+[MP4](http://flatiron-videos.s3.akkmazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
 
 <video controls width="100%">
   <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4" type="video/mp4" >
