@@ -8,7 +8,7 @@
 </video>
 
 ## Summary
-
+jj
 Learning to use your command line is crucial to being a programmer. Your terminal is your workbench, get to love it.
 
 ## Opening a Terminal OSX
