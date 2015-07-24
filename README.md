@@ -1,4 +1,4 @@
-
+# Intro to the Shell
 
 [MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
 
@@ -13,4 +13,4 @@ Learning to use your command line is crucial to being a programmer. Your termina
 
 ## Opening a Terminal OSX
 
-The easiest way to open a terminal is through Spotlight.
+The easiest way to open a terminal is through Spotlight by using COMMAND + SPACE.
