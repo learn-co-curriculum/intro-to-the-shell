@@ -14,3 +14,5 @@ Learning to use your command line is crucial to being a programmer. Your termina
 ## Opening a Terminal OSX
 
 The easiest way to open a terminal is through Spotlight.
+
+Adding some test text here.
