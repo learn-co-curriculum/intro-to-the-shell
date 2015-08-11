@@ -1,16 +1,13 @@
 # Intro to the Shell
+test
+<iframe width="1280"m height="720" src="https://www.youtube.com/embed/uxANgIcjmQg?rel=0&amp;showinfo=0&html5=1" frameborder="0" allowfullscreen></iframe>
 
-[MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
-
-<video controls width="100%">
-  <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4" type="video/mp4" >
-    Your browser does not support the video tag. We recommend using Chrome
-</video>
+[Download Video](http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
 
 ## Summary
 
 Learning to use your command line is crucial to being a programmer. Your terminal is your workbench, get to love it.
 
-## Opening a Terminal OSX
+## Opening a Termjinal OSX
 
-The easiest way to open a terminal is through Spotlight.
+The easiest way to open a terminal is through Spotlight by using COMMAND + SPACE, and typing "terminal". 
