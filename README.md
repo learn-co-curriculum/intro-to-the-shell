@@ -10,4 +10,4 @@ Learning to use your command line is crucial to being a programmer. Your termina
 
 ## Opening a Terminal OSX
 
-The easiest way to open a terminal is through Spotlight by using COMMAND + SPACE (if you haven't changed the default shortcut) , and typing "terminal".
+The easiest way to open a terminal is through Spotlight by using COMMAND + SPACE (if you haven't changed the default shortcut), and typing "terminal".
