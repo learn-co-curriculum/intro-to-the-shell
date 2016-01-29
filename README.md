@@ -14,4 +14,4 @@ The easiest way to open a terminal is through Spotlight by using COMMAND + SPACE
 
 NOTE: If you are on a PC and using the Nitrous environment, you can skip this series of lessons and go straight to "Intro to Ruby." Make sure to do the "Intro to Nitrous track" track first!
 
-<a href='https://learn.co/lessons/intro-to-the-shell' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-the-shell' title='Intro to the Shell'>Intro to the Shell</a> on Learn.co and start learning to code for free.</p>
